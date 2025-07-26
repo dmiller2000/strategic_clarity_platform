@@ -5,15 +5,13 @@ AI-Powered Strategic Clarity Platform ("Clarity Engine") BERT-powered workplace 
 
 ## Contact Information
 
-**Student:** David Miller  
-**Program:** Machine Learning & AI - UC Berkeley Professional Certificate
-**Module:** 20 - EDA Analysis  
-**Learning Facilitator:** Jessica Cervi  
-**Date:** June 24, 2025
+**Tech and Innovation Pro:** David Miller  
+**Machine Learning & AI**
+**Date:** July 30, 2025
 
 ### Innovation and Creativity
 - **Novel Application:** First fine-tuned BERT system for workplace clarity and power dynamics pattern recognition.
-- **Methodological Integration:** Combining Jessica's traditional NLP with cutting-edge transformers.
+- **Methodological Integration:** Combining traditional NLP with cutting-edge transformers.
 - **Social Impact Focus:** Technology development for workplace equity and employee empowerment.
 - **Cross-Disciplinary Innovation:** NLP + workplace psychology + social justice integration.
 - **Scalable Architecture:** Foundation for production-grade workplace guidance platform.
@@ -30,11 +28,11 @@ workplace-power-dynamics-classifier/ ("work in progress")
 │   ├── processed_data.csv              # Cleaned and labeled data
 │   └── data_collection_log.md          # Data source documentation
 ├── notebooks/
-│   ├── 01_eda_framework.ipynb         # Complete EDA with Jessica's framework
+│   ├── 01_eda_framework.ipynb         # Complete EDA with framework
 │   ├── 02_bert_fine_tuning.ipynb      # BERT implementation notebook
 │   └── 03_model_comparison.ipynb      # Comprehensive model evaluation
 ├── src/
-│   ├── preprocessing.py               # Jessica's NLP preprocessing pipeline
+│   ├── preprocessing.py               # NLP preprocessing pipeline
 │   ├── traditional_models.py          # Naive Bayes + Decision Trees
 │   ├── bert_classifier.py             # BERT fine-tuning implementation
 │   └── inference_pipeline.py          # Production inference system
@@ -54,11 +52,11 @@ workplace-power-dynamics-classifier/ ("work in progress")
 
 ## Executive Summary
 
-This project develops an NLP classifier to identify workplace power dynamics patterns in employee narratives, democratizing access to institutional knowledge typically available only to organizations and their legal/HR departments. By applying Jessica Cervi's proven NLP framework to workplace clarity, we create a strategic navigation system that addresses fundamental power asymmetries affecting 70% of employee engagement variance (Gallup Research).
+This project develops an NLP classifier to identify workplace power dynamics patterns in employee narratives, democratizing access to institutional knowledge typically available only to organizations and their legal/HR departments. By applying proven NLP framework to workplace clarity, we create a strategic navigation system that addresses fundamental power asymmetries affecting 70% of employee engagement variance (Gallup Research).
 
 ## Research Question
 
-**Can a fine-tuned NLP classifier accurately identify workplace power dynamics patterns from employee narratives and achieve >75% F1 score performance while providing explainable results using Jessica Cervi's text classification methodology?**
+**Can a fine-tuned NLP classifier accurately identify workplace power dynamics patterns from employee narratives and achieve >75% F1 score performance while providing explainable results using text classification methodology?**
 
 ## Rationale
 
@@ -66,9 +64,9 @@ Workplace clarity (or lack of) and power dynamics create significant information
 
 ## Methodology
 
-### Jessica Cervi's Complete NLP Framework Implementation
+### Complete NLP Framework Implementation
 
-**Traditional ML Foundation (Jessica's Module 18 Framework):**
+**Traditional ML Foundation:**
 - **Tokenization:** NLTK word_tokenize for workplace narrative segmentation
 - **Custom Stop Words:** Balanced approach removing workplace noise while preserving power indicators
 - **Lemmatization over Stemming:** Maintains semantic meaning critical for power dynamic detection
@@ -86,19 +84,19 @@ Workplace clarity (or lack of) and power dynamics create significant information
 
 ### Innovation and Creativity
 - **Novel Application:** First fine-tuned BERT system for workplace power dynamics pattern recognition
-- **Methodological Integration:** Combining Jessica's traditional NLP with cutting-edge transformers
+- **Methodological Integration:** Traditional NLP with cutting-edge transformers
 - **Social Impact Focus:** Technology development for workplace equity and employee empowerment
 - **Cross-Disciplinary Innovation:** NLP + workplace psychology + social justice integration
 -# AI-Powered Workplace Power Dynamics Classifier
 
-**Advanced Transformer Implementation (Jessica's 4/30/2025 Core Focus):**
+**Advanced Transformer Implementation:**
 - **BERT/DistilBERT Fine-tuning:** Fine-tuned transformer models for organizational pattern detection
 - **Domain Adaptation:** Workplace-specific fine-tuning on organizational behavior narratives
 - **Multi-Model Comparison:** Evaluation of DistilBERT vs. BERT base models for optimal performance
 - **Production Pipeline:** Real-time inference system for workplace pattern classification
 
 **Classification Approach (Complete Framework):**
-- **Baseline Models:** Naive Bayes (Jessica's #1) + Decision Trees (interpretability)
+- **Baseline Models:** Naive Bayes + Decision Trees (interpretability)
 - **Advanced Models:** Fine-tuned BERT/DistilBERT for subtle organizational pattern detection
 - **Feature Engineering:** Count Vectorization + Transformer embeddings
 - **Evaluation Framework:** Intrinsic (meaning preservation) + Extrinsic (classification performance)
@@ -128,7 +126,7 @@ Workplace clarity (or lack of) and power dynamics create significant information
   - [Additional patterns as collected]
 - **Data Quality Metrics:** [X]% complete cases, [X] average words per narrative
 
-### Jessica's Preprocessing Framework Results
+### Preprocessing Framework Results
 
 **Intrinsic Evaluation (Meaning Preservation):**
 - **Tokenization Effectiveness:** Successfully preserved workplace-specific terminology
@@ -144,7 +142,7 @@ Workplace clarity (or lack of) and power dynamics create significant information
 
 ### Baseline Model Performance
 
-**Naive Bayes Classifier (Jessica's Primary Recommendation):**
+**Naive Bayes Classifier (Primary Recommendation):**
 - **Overall Accuracy:** [X]%
 - **Macro F1 Score:** [X.XXX]
 - **Per-Pattern Performance:**
@@ -152,13 +150,13 @@ Workplace clarity (or lack of) and power dynamics create significant information
   - [Pattern 2]: Precision [X.XX], Recall [X.XX], F1 [X.XX]
   - [Pattern 3]: Precision [X.XX], Recall [X.XX], F1 [X.XX]
 
-**Decision Tree Classifier (Jessica's Interpretability Choice):**
+**Decision Tree Classifier (Interpretability Choice):**
 - **Overall Accuracy:** [X]%
 - **Macro F1 Score:** [X.XXX]
 - **Feature Importance Insights:** Top workplace power indicators identified
 - **Interpretability Value:** Clear decision paths for pattern classification
 
-### Advanced Model Performance (Jessica's 4/30/2025 Core Focus)
+### Advanced Model Performance:
 
 **BERT/DistilBERT Fine-tuned Classifier:**
 - **Model Architecture:** [DistilBERT-base-uncased / BERT-base-uncased]
@@ -181,7 +179,7 @@ Workplace clarity (or lack of) and power dynamics create significant information
 
 ### F1 > 0.75 Feasibility Assessment
 
-**Jessica's Complete Framework Evaluation:**
+**Complete Framework Evaluation:**
 - **Best Traditional ML F1:** [X.XXX]
 - **BERT F1 Score:** [X.XXX]
 - **Best Overall F1:** [X.XXX]
@@ -189,7 +187,7 @@ Workplace clarity (or lack of) and power dynamics create significant information
 
 **Evidence for Production Readiness:**
 - **Pattern Separability:** [Strong/Moderate/Weak] vocabulary distinction between classes
-- **Data Quality:** [High/Medium/Needs Improvement] based on Jessica's assessment framework
+- **Data Quality:** [High/Medium/Needs Improvement] based on assessment framework
 - **Model Robustness:** [High/Medium/Low] consistency across train/validation/test splits
 - **Deployment Readiness:** [Ready/Needs Optimization/Requires Improvement] for real-world application
 
@@ -205,7 +203,7 @@ Workplace clarity (or lack of) and power dynamics create significant information
 - **Contextual Nuance:** Lemmatization maintained subtle meaning differences critical for power dynamics
 - **Pattern Complexity:** Decision tree analysis revealed interpretable decision boundaries for workplace scenarios
 
-### Jessica's Framework Advantages for This Domain
+### Framework Advantages for This Domain
 - **Meaning Preservation:** Critical for workplace narratives where subtle language indicates power dynamics
 - **Interpretability Focus:** Essential for user trust in workplace guidance applications
 - **Robust Baseline Establishment:** Strong foundation for BERT enhancement in Module 24
@@ -256,7 +254,7 @@ Workplace clarity (or lack of) and power dynamics create significant information
 - **Core Libraries:** pandas, numpy, scikit-learn, nltk
 - **Transformer Libraries:** transformers, torch, datasets
 - **Visualization:** matplotlib, seaborn, wordcloud
-- **Text Processing:** Custom implementation of Jessica Cervi's NLP framework
+- **Text Processing:** Custom implementation of an effective NLP framework
 - **Model Persistence:** HuggingFace model hub integration + joblib for traditional ML
 
 ### Model Architecture Details
@@ -303,14 +301,12 @@ Workplace clarity (or lack of) and power dynamics create significant information
 
 ## Acknowledgments
 
-**Learning Facilitator:** Jessica C. for providing the robust NLP framework that enables this workplace clarity application.
-
 **Institution:**  Machine Learning & AI - UC Berkeley Professional Certificate (6 months)
 
 **Data Sources:** Kaggle, Reddit communities, workplace psychology researchers, and professional review platforms for contributing the authentic workplace narratives that make this analysis possible.
 
 ---
 
-*This project represents a novel application of Jessica C's proven NLP methodology to workplace clarity, demonstrating both technical excellence and social impact potential. The systematic approach to text classification, combined with the important social mission of workplace empowerment, showcases the powerful intersection of artificial intelligence and human equity.*
+*This project represents a novel application of a proven NLP methodology to workplace clarity, demonstrating both technical excellence and social impact potential. The systematic approach to text classification, combined with the important social mission of workplace empowerment, showcases the powerful intersection of artificial intelligence and human equity.*
 
 **Ready for Module 24 Advanced Implementation.**
