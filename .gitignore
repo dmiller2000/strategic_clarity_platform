@@ -1,0 +1,94 @@
+# =============================================================================
+# Clarity Engine Project - .gitignore
+# AI-Powered Strategic Clarity Platform
+# =============================================================================
+
+# Critical Project Data (Privacy & Size Management)
+data/
+raw_data/
+process_data/
+processed_data/
+datasets/
+*.csv
+*.json
+*.xlsx
+
+# ML Models & Checkpoints (Large Files)
+models/
+checkpoints/
+*.pkl
+*.joblib
+*.h5
+*.pth
+*.pt
+saved_models/
+
+# ML Experiment Tracking
+logs/
+wandb/
+runs/
+experiments/
+
+# Mac/System Files
+.DS_Store
+DS_Store
+/.DS_Store
+
+# Python Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment Management
+.env
+.envrc
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Package Distribution
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Unit Test & Coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+*.cover
+
+# Code Quality Tools
+.ruff_cache/
+.mypy_cache/
+
+# IDEs & Editors
+.vscode/
+.idea/
+.cursorignore
+.cursorindexingignore
+
+# Documentation Build
+docs/_build/
+
+# Installer Logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Configuration Files
+.pypirc
+local_settings.py
+
+# Temporary Files
+*.log
+*.tmp
+*.temp
