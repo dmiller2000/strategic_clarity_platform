@@ -20,35 +20,27 @@ AI-Powered Strategic Clarity Platform ("Clarity Engine") BERT-powered workplace 
 ---
 
 ## File Structure
+```
+strategic_clarity_platform/
+├── README.md                                  (PROJECT OVERVIEW & RESULTS)
+├── TECHNICAL_REPORT.md                        (COMPLETE TECHNICAL REPORT)
+├── requirements.txt                           (DEPENDENCIES + HARDWARE NOTES)
+├── .gitignore                                 (GIT IGNORE FILE)
+│
+├── notebooks/                                 (ALL ANALYSIS & TRAINING)
+│   ├── 01_data_verification.ipynb            (DATA LOADING & VALIDATION)
+│   ├── 02_data_visualization.ipynb           (EDA & VISUALIZATIONS)
+│   └── 03_bert_implementation.ipynb          (MODEL TRAINING & RESULTS)
+│
+├── data/                                      (DATASET & DOCUMENTATION)
+│   ├── processed_data.csv                    (300 LABELED NARRATIVES)
+│   ├── data_quality_checklist.md             (DATA VALIDATION METHODOLOGY)
+│   └── labeling_guidelines.md                (PATTERN DEFINITION PROCESS)
+│
+└── docs/                                      (ADDITIONAL DOCUMENTATION)
+    └── methodology.md                         (TECHNICAL METHODOLOGY DETAILS)
 
 ```
-workplace-power-dynamics-classifier/ ("work in progress")
-├── data/
-│   ├── raw_narratives.csv              # Original workplace narratives
-│   ├── processed_data.csv              # Cleaned and labeled data
-│   └── data_collection_log.md          # Data source documentation
-├── notebooks/
-│   ├── 01_eda_framework.ipynb         # Complete EDA with framework
-│   ├── 02_bert_fine_tuning.ipynb      # BERT implementation notebook
-│   └── 03_model_comparison.ipynb      # Comprehensive model evaluation
-├── src/
-│   ├── preprocessing.py               # NLP preprocessing pipeline
-│   ├── traditional_models.py          # Naive Bayes + Decision Trees
-│   ├── bert_classifier.py             # BERT fine-tuning implementation
-│   └── inference_pipeline.py          # Production inference system
-├── models/
-│   ├── naive_bayes_model.pkl          # Trained Naive Bayes model
-│   ├── decision_tree_model.pkl        # Trained Decision Tree model
-│   └── workplace_bert_model/          # Fine-tuned BERT model directory
-├── results/
-│   ├── model_performance_report.pdf   # Comprehensive evaluation results
-│   ├── confusion_matrices/            # Visualization outputs
-│   └── feature_importance_analysis/   # Interpretability results
-├── requirements.txt                   # Python dependencies
-├── README.md                          # This file
-└── LICENSE                            # MIT License
-```
-
 
 ## Executive Summary
 
@@ -74,7 +66,7 @@ Workplace clarity (or lack of) and power dynamics create significant information
 
 ## Installation and Usage
 
-### Qu### Technical Skills Demonstrated
+### Technical Skills Demonstrated
 - **Advanced NLP Mastery:** Traditional ML + modern transformer implementation
 - **Framework Application:** Successful adaptation of academic methodology to novel domain
 - **Production Engineering:** End-to-end pipeline from data collection to deployment-ready models
@@ -109,6 +101,8 @@ Workplace clarity (or lack of) and power dynamics create significant information
 - **Professional Reviews:** Glassdoor company reviews focusing on management dynamics
 - **Quality Controls:** Manual review and automated filtering for workplace relevance
 
+## Results
+
 ### Data Collection Results
 - **Total Narratives Collected:** 300
 - **Pattern Distribution:**
@@ -123,17 +117,6 @@ Workplace clarity (or lack of) and power dynamics create significant information
 - **Balance:** Stratified collection ensuring representation across pattern categories
 - **Quality:** Average 100-300 words per narrative with clear power dynamic indicators
 - **Anonymization:** Complete removal of identifying information for ethical compliance
-
-## Results
-
-### Data Collection Results
-- **Total Narratives Collected:** [TO BE UPDATED WITH ACTUAL COUNT]
-- **Pattern Distribution:**
-  - [Pattern 1]: [X] examples ([X]%)
-  - [Pattern 2]: [X] examples ([X]%)
-  - [Pattern 3]: [X] examples ([X]%)
-  - [Additional patterns as collected]
-- **Data Quality Metrics:** [X]% complete cases, [X] average words per narrative
 
 ### Preprocessing Framework Results
 
@@ -310,7 +293,7 @@ Workplace clarity (or lack of) and power dynamics create significant information
 
 ## Contact Information
 
-**Student:** David Miller  
+**Project Lead & Developer:** David Miller  
 **Email:** davidmillerTech@gmail.com
 **GitHub Repository:** dmiller2000
 **Portfolio:** [My Portfolio Website]
@@ -319,7 +302,7 @@ Workplace clarity (or lack of) and power dynamics create significant information
 
 ## Acknowledgments
 
-**Institution:**  Machine Learning & AI - UC Berkeley Professional Certificate (6 months)
+**Institution:**  Machine Learning & AI - UC Berkeley Professional Certificate (6 month indepth AIML program).
 
 **Data Sources:** Kaggle, Reddit communities, workplace psychology researchers, and professional review platforms for contributing the authentic workplace narratives that make this analysis possible.
 
@@ -327,4 +310,4 @@ Workplace clarity (or lack of) and power dynamics create significant information
 
 *This project represents a novel application of a proven NLP methodology to workplace clarity, demonstrating both technical excellence and social impact potential. The systematic approach to text classification, combined with the important social mission of workplace empowerment, showcases the powerful intersection of artificial intelligence and human equity.*
 
-**Ready for Module 24 Advanced Implementation.**
+**Clarity Engine Development Project**
