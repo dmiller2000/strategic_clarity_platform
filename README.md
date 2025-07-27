@@ -5,7 +5,7 @@ AI-Powered Strategic Clarity Platform ("Clarity Engine") BERT-powered workplace 
 
 ## Contact Information
 
-**Tech and Innovation Pro:** David Miller  
+**Project Lead & Developer:** David Miller  
 **Machine Learning & AI**
 **Date:** July 30, 2025
 
