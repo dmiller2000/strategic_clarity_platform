@@ -1,0 +1,3 @@
+my_folder/placeholder.txt
+
+"This is a placeholder file."
