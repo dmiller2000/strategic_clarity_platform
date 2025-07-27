@@ -153,7 +153,7 @@ Workplace clarity (or lack of) and power dynamics create significant information
 
 ### BERT/DistilBERT Fine-tuned Classifier
 - **Model Architecture:** DistilBERT-base-uncased
-- **Fine-tuning Epochs:** 3 epochs with early stopping
+- **Fine-tuning Epochs:** 3 Epochs with early stopping.
 - **Overall Accuracy:** 100%
 - **Macro F1 Score:** 1.000
 - **Weighted F1 Score:** 1.000
@@ -183,7 +183,7 @@ Workplace clarity (or lack of) and power dynamics create significant information
 - **Deployment Readiness:** Ready for real-world application with confidence thresholds
 
 **BERT Enhancement Analysis:**
-- **Improvement over Baselines:** [+X.XXX] F1 improvement with transformer fine-tuning
+- **Improvement over Baselines:** F1 improvement with transformer fine-tuning
 - **Contextual Understanding:** Successfully captures subtle workplace power dynamics
 - **Generalization Capability:** [Strong/Moderate/Weak] performance on unseen workplace scenarios
 
@@ -197,7 +197,7 @@ Workplace clarity (or lack of) and power dynamics create significant information
 ### Framework Advantages for This Domain
 - **Meaning Preservation:** Critical for workplace narratives where subtle language indicates power dynamics
 - **Interpretability Focus:** Essential for user trust in workplace guidance applications
-- **Robust Baseline Establishment:** Strong foundation for BERT enhancement in Module 24
+- **Robust Baseline Establishment:** Strong foundation for BERT enhancement.
 
 ## Business Impact and Applications
 
