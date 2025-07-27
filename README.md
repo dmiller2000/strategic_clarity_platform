@@ -9,14 +9,6 @@ AI-Powered Strategic Clarity Platform ("Clarity Engine") BERT-powered workplace 
 **Machine Learning & AI**
 **Date:** July 30, 2025
 
-### Innovation and Creativity
-- **Novel Application:** First fine-tuned BERT system for workplace clarity and power dynamics pattern recognition.
-- **Methodological Integration:** Combining traditional NLP with cutting-edge transformers.
-- **Social Impact Focus:** Technology development for workplace equity and employee empowerment.
-- **Cross-Disciplinary Innovation:** NLP + workplace psychology + social justice integration.
-- **Scalable Architecture:** Foundation for production-grade workplace guidance platform.
-- **Advanced Evaluation:** Multi-model comparison framework for optimal performance selection.
-
 ---
 
 ## File Structure
@@ -27,19 +19,23 @@ strategic_clarity_platform/
 ├── requirements.txt                           (DEPENDENCIES + HARDWARE NOTES)
 ├── .gitignore                                 (GIT IGNORE FILE)
 │
-├── notebooks/                                 (ALL ANALYSIS & TRAINING)
+├── notebooks/                                (ALL ANALYSIS & TRAINING)
 │   ├── 01_data_verification.ipynb            (DATA LOADING & VALIDATION)
 │   ├── 02_data_visualization.ipynb           (EDA & VISUALIZATIONS)
 │   └── 03_bert_implementation.ipynb          (MODEL TRAINING & RESULTS)
 │
-├── data/                                      (DATASET & DOCUMENTATION)
+├── data/                                     (DATASET & DOCUMENTATION)
 │   ├── processed_data.csv                    (300 LABELED NARRATIVES)
 │   ├── data_quality_checklist.md             (DATA VALIDATION METHODOLOGY)
 │   └── labeling_guidelines.md                (PATTERN DEFINITION PROCESS)
 │
+├── visualizations/                           (SAVED PLOTS & CHARTS)
+│   ├── pattern_distribution.png              (PATTERN COUNT PLOTS)
+│   ├── text_analysis.png                     (EDA MULTI-PANEL PLOTS)
+│   └── model_performance.png                 (PERFORMANCE COMPARISON CHARTS)
+│
 └── docs/                                      (ADDITIONAL DOCUMENTATION)
     └── methodology.md                         (TECHNICAL METHODOLOGY DETAILS)
-
 ```
 
 ## Executive Summary
@@ -285,12 +281,6 @@ Workplace clarity (or lack of) and power dynamics create significant information
 - **Evaluation Rigor:** Multi-level assessment following industry best practices
 - **Code Quality:** Professional-grade documentation and reproducible research standards
 
-### Innovation and Creativity
-- **Novel Application:** First AI system for workplace power dynamics pattern recognition
-- **Social Impact Focus:** Technology development for workplace equity and employee empowerment
-- **Cross-Disciplinary Integration:** Combining NLP, workplace psychology, and social justice
-- **Scalable Architecture:** Foundation for production-grade workplace guidance platform
-
 ## Contact Information
 
 **Project Lead & Developer:** David Miller  
@@ -302,7 +292,7 @@ Workplace clarity (or lack of) and power dynamics create significant information
 
 ## Acknowledgments
 
-**Institution:**  Machine Learning & AI - UC Berkeley Professional Certificate (6 month indepth AIML program).
+**Institution:**  Machine Learning & AI, UC Berkeley Professional Certificate (6 month in-depth AIML program).
 
 **Data Sources:** Kaggle, Reddit communities, workplace psychology researchers, and professional review platforms for contributing the authentic workplace narratives that make this analysis possible.
 
