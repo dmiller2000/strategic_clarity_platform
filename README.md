@@ -254,6 +254,15 @@ Workplace clarity (or lack of) and power dynamics create significant information
 - **Sequence Length:** 512 tokens maximum for workplace narratives
 - **Training Configuration:** 4 epochs, learning rate 2e-5, batch size 8, early stopping
 
+data_verification.ipynb
+https://colab.research.google.com/drive/1EXDpZ4Ks5CPvj6cEzPSR82FUoX0kugpE#scrollTo=jjiFempriVyV
+
+BERT_implementation.ipynb
+https://colab.research.google.com/drive/193HeZtIfAPsLvHWrV_Y3manNi96EmC_N#scrollTo=gH1kMeuKE0ie
+
+data_visualization.ipynb
+https://colab.research.google.com/drive/1NgBz-sv-a4PW6QWq5JQYHMXi-l5YBAuY#scrollTo=BFhl_eXIiC7S
+
 ### Hardware Requirements & Performance
 
 ### Training Performance
